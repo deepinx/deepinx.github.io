@@ -1,3 +1,3 @@
-## https://deepinx.github.io 
+## http://deepinx.github.io 
 
-## https://www.deepinx.cn
+## http://www.deepinx.cn
