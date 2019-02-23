@@ -1,15 +1,8 @@
+- name: "About"
+  link: "/"
+
 - name: "Contact"
   link: "contact"
 
 - name: "Github"
   link: "https://github.com/deepinx"
-
-- name: "Teaching"
-  link: "teach"
-
-
-- name: "Resume"
-  link: "cv.pdf"
-
-- name: "About"
-  link: "/"
