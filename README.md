@@ -1,6 +1,6 @@
 # Researcher
 
-### [Demo Website](http://yule-li.github.io)
+### [Demo Website](http://deepinx.github.io)
 
 A clean, single column, monospace resume template built for jekyll
 
