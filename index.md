@@ -12,7 +12,7 @@ I am a ...
 ## Research Interest
 - Face analysis
 - Face recognition
-- Physiological signal processing
+- Biomedical signal processing
 - Deep learning
 
 ## Publications
