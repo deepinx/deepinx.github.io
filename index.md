@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-Our goal is to find solution to real world problem using computer vision and signal processing techniques. We are developing fundamental algorithms and practical techniques for face related systems including detection, alignment, recognition, analysis and anti-spoofing, etc.
+My goal is to find solution to real world problem using computer vision and signal processing techniques. I am recently focusing on developing fundamental and practical algorithms for face related systems including detection, alignment, recognition, analysis and anti-spoofing, etc.
 
 
 ## Research Interest
