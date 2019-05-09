@@ -37,9 +37,6 @@ My goal is to solve practical problems in industrial practice with mathematical 
 
 9. Pandeng Zhang, Jia Liu, Xinyu Wu, **Xiaochang Liu**, Qincun Gao, "A Novel Feature Extraction Method for Signal Quality Assessment of Arterial Blood Pressure for Monitoring Cerebral Autoregulation", Bioinformatics and Biomedical Engineering (iCBBE), 2010 4th International Conference on. 1-4(EI).
 
-10.  张攀登，刘嘉，吴新宇，**刘小畅**，谷小安，高庆春，“一种新的特征提取方法在无创动脉血压信号异常识别中的应用”，中国医学物理学杂志.2010;27(5):2128-2132
-
-11.  蔡优飞, 刘嘉, 张攀登, **刘小畅**, “用鲁棒性人工神经网络实现基于手指的动脉血压测量”. International Conference on Biomedical Engineering and Biotechnology, 2012(EI)
 
 
 
