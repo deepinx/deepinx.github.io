@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="me.jpg">
 
-My goal is to use mathematical methods to solve practical problems in industrial practice. I am very interested in image processing, signal processing and artificial intelligence. I hope that through my efforts, more excellent algorithms in academia can be applied to actual products and contribute value to society.
+My goal is to solve practical problems in industrial practice with mathematical methods. I am very interested in image processing, signal processing and artificial intelligence. I hope that through my efforts, more excellent algorithms in academia can be applied to actual products and contribute value to society.
 
 
 ## Research Interest
