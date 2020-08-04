@@ -1,0 +1,177 @@
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px; FONT-FAMILY: 宋体
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: 宋体
+}
+.font14b {
+	FONT-SIZE: 14px; FONT-FAMILY: 宋体
+}
+.treeindent {
+	VERTICAL-ALIGN: baseline; TEXT-INDENT: 4px
+}
+.hidenode {
+	DISPLAY: none
+}
+.nodeicon {
+	CURSOR: hand
+}
+.pcategory {
+	COLOR: #ffffff; BACKGROUND-COLOR: #990000
+}
+.line150 {
+	LINE-HEIGHT: 150%
+}
+.titleline {
+	TEXT-INDENT: 8px; HEIGHT: 26px; BACKGROUND-COLOR: #dddddd
+}
+.detailline {
+	BACKGROUND-COLOR: #f6f6f6
+}
+.subtitleline {
+	BACKGROUND-COLOR: #ebebeb
+}
+.detaillinealt {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.category {
+	BACKGROUND-COLOR: #fbfbfb
+}
+.border {
+	BORDER-RIGHT: #333333 1px solid; BORDER-TOP: #333333 1px solid; BORDER-LEFT: #333333 1px solid; BORDER-BOTTOM: #333333 1px solid
+}
+.navy {
+	COLOR: navy
+}
+A:link {
+	COLOR: #000099; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #371616; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.import:link {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+A.import:visited {
+	COLOR: #ff0000; TEXT-DECORATION: underline
+}
+.vline {
+	BORDER-RIGHT: #cccccc 1px solid
+}
+.width135 {
+	WIDTH: 135px
+}
+.width190 {
+	WIDTH: 190px
+}
+.width180 {
+	WIDTH: 180px
+}
+.width220 {
+	WIDTH: 220px
+}
+.navbar {
+	COLOR: #ffffff; BACKGROUND-COLOR: #cc0000
+}
+.navbar A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.navbar A:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.navbar A:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.hline {
+	BORDER-BOTTOM: #cccccc 1px solid
+}
+TEXTAREA {
+	FONT-SIZE: 12px
+}
+.newstitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+.width140 {
+	WIDTH: 125px
+}
+A.white:link {
+	COLOR: #ffffff; LINE-HEIGHT: 130%
+}
+A.white:visited {
+	COLOR: #ffffff; LINE-HEIGHT: 130%
+}
+.splitbar {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #ffffff 1px solid
+}
+A.red:link {
+	COLOR: #000000; LINE-HEIGHT: 130%; TEXT-DECORATION: none
+}
+A.red:visited {
+	COLOR: #000000; LINE-HEIGHT: 130%; TEXT-DECORATION: none
+}
+A.red:hover {
+	COLOR: #ff0000; LINE-HEIGHT: 130%; TEXT-DECORATION: underline
+}
+.width90 {
+	WIDTH: 80px
+}
+A.move:link {
+	COLOR: #ff3300; TEXT-DECORATION: none
+}
+A.move:visited {
+	COLOR: #ff3300; TEXT-DECORATION: none
+}
+A.move:active {
+	COLOR: #ff3300; TEXT-DECORATION: none
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.errorbg {
+	BACKGROUND-POSITION: right center; BACKGROUND-IMAGE: url(../images/error.gif); BACKGROUND-REPEAT: no-repeat
+}
+.width125 {
+	WIDTH: 125px
+}
+SPAN.TreeviewSpanArea A {
+	FONT-SIZE: 12px; COLOR: black; TEXT-DECORATION: none
+}
+SPAN.TreeviewSpanArea A:hover {
+	COLOR: #820082
+}
+.leftvline {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: #cccccc 2px dotted; BORDER-BOTTOM: 0px
+}
+.leftbg {
+	BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url(../Company/images/coinfo_00.gif); BACKGROUND-REPEAT: repeat-y
+}
+.btnheight {
+	HEIGHT: 40px
+}
+.coursesearchbox {
+	BORDER-RIGHT: #cc9900 1px solid; BORDER-TOP: #cc9900 1px solid; BORDER-LEFT: #cc9900 1px solid; BORDER-BOTTOM: #cc9900 1px solid
+}
+.newsindent {
+	MARGIN-LEFT: 12px; TEXT-INDENT: 10px
+}
+.smallfont {
+	FONT-SIZE: 9px
+}
+.blacklink A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.blacklink A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.blacklink A:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
